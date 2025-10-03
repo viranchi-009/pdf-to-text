@@ -1,5 +1,5 @@
 {
-  "name": "kc-react-pdf-to-text",
+  "name": "kc-react-pdf-to-text-01-01",
   "version": "1.0.0",
   "description": "A simple light weight react package to extract plain text from a pdf file.",
   "main": "dist/index.js",

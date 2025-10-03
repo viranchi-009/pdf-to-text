@@ -1,4 +1,4 @@
-# kc-react-pdf-to-text
+# kc-react-pdf-to-text-01
 
 Light-weight memory-safe client library for extracting plain text from pdf files.
 
@@ -7,7 +7,7 @@ Light-weight memory-safe client library for extracting plain text from pdf files
 Using npm:
 
 ```js
-npm install kc-react-pdf-to-text
+npm install kc-react-pdf-to-text-01
 ```
 
 ## Example
@@ -23,7 +23,7 @@ Now add a input tag with type="file" to take file input.
 Import the pdf2text function from package
 
 ```js
-import pdfToText from "kc-react-pdf-to-text";
+import pdfToText from "kc-react-pdf-to-text-01";
 
 function extractText(event) {
   const file = event.target.files[0];
@@ -38,7 +38,7 @@ function extractText(event) {
 For Pdf files stored at remote locations
 
 ```js
-import pdfToText from 'kc-react-pdf-to-text'
+import pdfToText from 'kc-react-pdf-to-text-01'
 
 const pdf_url = "REMOTE_PDF_URL"
 
